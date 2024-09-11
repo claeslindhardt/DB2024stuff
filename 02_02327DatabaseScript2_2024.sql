@@ -81,7 +81,7 @@ INSERT INTO Newspaper (NewspaperID, Title, FoundingDate, Periodicity) VALUES
 (1, 'DKA Daily', '2000-01-01', 1),
 (2, 'DKA Weekly', '2005-06-15', 7);
 
--- Add your data for Journalists, Editions, Articles, Photos, ArticlePhoto, and ArticleWriter
+-- Add more data for Journalists, Editions, Articles, Photos, ArticlePhoto, and ArticleWriter
 
 -- SQL Table Modifications (example)
 UPDATE Article
